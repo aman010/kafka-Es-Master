@@ -7,7 +7,7 @@
 *.o
 *.so
 *.xml
-*~
+*.xml~
 *.~
 *.java~
 *.properties~
